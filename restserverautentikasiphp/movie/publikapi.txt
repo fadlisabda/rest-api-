@@ -1,6 +1,0 @@
-PUBLIC API :
-- https://any-api.com/
-- https://github.com/toddmotto/public-apis
--https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
-
-keycode.info

@@ -2,5 +2,6 @@ PUBLIC API :
 - https://any-api.com/
 - https://github.com/toddmotto/public-apis
 -https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
-
+-https://console.cloud.google.com/apis/dashboard?project=wpu-api-451014
+https://developers.facebook.com/
 keycode.info

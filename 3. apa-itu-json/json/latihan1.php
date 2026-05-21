@@ -1,24 +1,22 @@
-<?php 
+<?php
 
 // $mahasiswa = [
 //     [
-//         "nama" => "Sandhika Galih",
+//         "nama" => "fadli",
 //         "nrp" => "043040023",
-//         "email" => "sandhikagalih@unpas.ac.id"
+//         "email" => "fadli@gmail.com"
 //     ],
 //     [
-//         "nama" => "Erik Doank",
+//         "nama" => "fadli2",
 //         "nrp" => "023040001",
-//         "email" => "erik@gmail.com"
+//         "email" => "fadli2@gmail.com"
 //     ]
 // ];
 
-$dbh = new PDO('mysql:host=localhost;dbname=phpdasar', 'root', 'root');
-$db = $dbh->prepare('SELECT * FROM mahasiswa');
+$dbh = new PDO('mysql:host=localhost;dbname=phpjson', 'root', '');
+$db = $dbh->prepare('SELECT * FROM datadiri');
 $db->execute();
-$mahasiswa = $db->fetchAll(PDO::FETCH_ASSOC);
+$datadiri = $db->fetchAll(PDO::FETCH_ASSOC);
 
-$data = json_encode($mahasiswa);
+$data = json_encode($datadiri);
 echo $data;
-
-?>

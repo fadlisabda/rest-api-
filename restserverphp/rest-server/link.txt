@@ -1,7 +1,0 @@
-https://codeigniter.com/userguide3/general/urls.html
-https://github.com/chriskacerguis/codeigniter-restserver
-https://github.com/sandhikagalih/rest-api/tree/master/7.%20rest-server
-
-https://docs.guzzlephp.org/en/stable/overview.html
-guzzle http hangs localhost php
-laragon
