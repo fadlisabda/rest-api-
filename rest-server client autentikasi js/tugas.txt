@@ -1,3 +1,0 @@
-1.rest server(restful api) node js untuk konek ke rest api(url) kita,bisa ambil data mahasiswa dan crud di postman ke mysql
-2.autentikasi api key&limit,login
-3.cara mengambil semua,satu,hapus,tambah,ubah data postman dengan node js dengan autentikasi
