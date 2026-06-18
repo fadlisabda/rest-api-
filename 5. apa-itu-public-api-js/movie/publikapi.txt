@@ -5,3 +5,5 @@ PUBLIC API :
 -https://console.cloud.google.com/apis/dashboard?project=wpu-api-451014
 https://developers.facebook.com/
 keycode.info
+leaflet
+spotify,pexels,ilovepdf api
